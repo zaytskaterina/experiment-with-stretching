@@ -2,6 +2,7 @@
 The results of the experiment on the stretching of aluminum alloy samples
 
 THE AUTHORS
+
 Zaitseva E.V.
 e-mail: zaytskaterina@gmail.com
 ORCID: 0000-0003-3982-3592
