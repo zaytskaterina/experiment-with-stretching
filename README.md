@@ -1,6 +1,8 @@
 # experiment-with-stretching
 The results of the experiment on the stretching of aluminum alloy samples
 
+If you use it for any purpose, please provide a link to this repo.
+
 THE AUTHORS
 
 Zaitseva E.V.
