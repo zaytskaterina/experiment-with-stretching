@@ -3,6 +3,8 @@ The results of the experiment on the stretching of aluminum alloy samples
 
 If you use it for any purpose, please provide a link to this repo.
 
+This data was used for the article: E.V. Zaitseva, A. G. Shmeleva, V.K. Kazankov  Unstable plastic flow in structural materials: time series for analysis of experimental data // Materials Physics and Mechanics. 48(48(2)) (2022) 208 DOI: 10.18720/MPM.4848(2)2022_6.
+
 THE AUTHORS
 
 Zaitseva E.V.
